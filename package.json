@@ -1,0 +1,11 @@
+{
+  "name": "sb",
+  "version": "1.0.0",
+  "description": "A bot made by leelandshoe",
+  "main": "bot.js",
+  "author": "leelandshoe#2736",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
